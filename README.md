@@ -1,7 +1,7 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <img src="https://github.com/danieleiden1123/Laraveltest/blob/master/image.png">
-<img src="https://github.com/danieleiden1123/Laraveltest/blob/master/image2png">
+<img src="https://github.com/danieleiden1123/Laraveltest/blob/master/image2.png">
 <img src="https://github.com/danieleiden1123/Laraveltest/blob/master/image3.png">
 <img src="https://github.com/danieleiden1123/Laraveltest/blob/master/image4.png">
 
